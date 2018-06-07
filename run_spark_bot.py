@@ -14,7 +14,7 @@ except ImportError as e:
           "Type 'pip3 install flask' command to install the missing library.")
     sys.exit()
 
-bearer = "ZGZlMjJjNTItYzUwOC00NzQ1LWJlODktY2M0MzYyM2U0YzI5NGM4N2NkNTEtYjFm"  # BOT'S ACCESS TOKEN
+bearer = ""  # BOT'S ACCESS TOKEN
 headers = {
     "Accept": "application/json",
     "Content-Type": "application/json; charset=utf-8",
