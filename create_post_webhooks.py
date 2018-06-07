@@ -1,8 +1,8 @@
 import requests
 import json
 
-url = "http://13774db7.ngrok.io"  # FORWARDING URL BY NGROK
-bearer = "ZGZlMjJjNTItYzUwOC00NzQ1LWJlODktY2M0MzYyM2U0YzI5NGM4N2NkNTEtYjFm"  # BOT'S ACCESS TOKEN
+url = ""  # FORWARDING URL BY NGROK, replace with your own, e.g. http://00000000.ngrok.io
+bearer = ""  # BOT'S ACCESS TOKEN
 headers = {
     "Accept": "application/json",
     "Content-Type": "application/json; charset=utf-8",
